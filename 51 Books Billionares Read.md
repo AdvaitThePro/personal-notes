@@ -1,6 +1,6 @@
 # 51 Books Billionares Read
 ___
-- [ ] Trillion Dollar Coach: The Leadership Playbook of Silicon Valley - https://amzn.to/3fVK3ZD
+- [x] Trillion Dollar Coach: The Leadership Playbook of Silicon Valley - https://amzn.to/3fVK3ZD
 - [ ] The Quantum Leap Strategy - https://amzn.to/2VZVUwp
 - [ ] Steve Jobs - https://amzn.to/39GXkzX
 - [ ] The Road Less Stupid - https://amzn.to/2PZVnXy
