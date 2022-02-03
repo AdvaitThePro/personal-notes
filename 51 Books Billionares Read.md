@@ -1,0 +1,53 @@
+# 51 Books Billionares Read
+___
+- [ ] Trillion Dollar Coach: The Leadership Playbook of Silicon Valley - https://amzn.to/3fVK3ZD
+- [ ] The Quantum Leap Strategy - https://amzn.to/2VZVUwp
+- [ ] Steve Jobs - https://amzn.to/39GXkzX
+- [ ] The Road Less Stupid - https://amzn.to/2PZVnXy
+- [ ] Before The Exit - https://amzn.to/3aGzqEQ - Kindle Unlimited
+- [ ] Angel: How to Invest in Technology Startups - https://amzn.to/2Q4nl4o
+- [ ] The Ultimate Blueprint for an Insanely Successful Business - https://amzn.to/2Q3HF6e
+- [ ]  Finance Your Own Business - https://amzn.to/2vUan2n
+- [ ] What Every Real Estate Investor Needs to Know about Cash Flow - https://amzn.to/38Idd7Y
+- [ ] 177 Mental Toughness Secrets of the World Class - https://amzn.to/2W109Yx
+- [ ] You 2 - https://amzn.to/2W0vXgj
+- [ ] Business Brilliant - https://amzn.to/3cLSNy1
+- [ ] The Outsiders - https://amzn.to/2TF0UoB
+- [ ] Next Generation Excel - https://amzn.to/3aIhc5P
+- [ ] Financial Intelligence for Entrepreneurs - https://amzn.to/2IAdNKj
+- [ ] Keys to the Vault - https://amzn.to/2TN9y3a
+- [ ] The Will to Lead - https://amzn.to/2VX81ul
+- [ ] How to Get Rich - https://amzn.to/2QjsNAP
+- [ ] The Prime Movers - https://amzn.to/2IyaqUg
+- [ ] The Daily Drucker - https://amzn.to/2TWToEr
+- [ ] Triggers - https://amzn.to/2TStMJ3 - Kindle Unlimited
+- [ ] The Psychology of Winning - https://amzn.to/3cPnjXO
+- [ ] Hard Drive - https://amzn.to/2W3pJvZ
+- [ ] John D. Rockefeller on Making Money - https://amzn.to/3375M9a
+- [ ] Tough-Minded Leadership - https://amzn.to/2Q5EomC
+- [ ] Lessons from Private Equity Any Company Can Use - https://amzn.to/2xmhVv6
+- [ ] Winning - https://amzn.to/2xrBWAB
+- [ ] Why Smart Executives Fail - https://amzn.to/38BmGOl
+- [ ] The Max Strategy - https://amzn.to/3cMXsQn
+- [ ] How to Read a Financial Report - https://amzn.to/2xk8rR0
+- [ ] The Masters of Private Equity & Venture Capital - https://amzn.to/2wNVBtX
+- [ ] King of Capital - https://amzn.to/3aKgBAy
+- [ ] The Six Month Fix - https://amzn.to/2Q4LrMp
+- [ ] High Output Management - https://amzn.to/39FvbZX
+- [ ] Who Moved My Cheese? - https://amzn.to/39Dv2q0
+- [ ] Man's Search for Meaning - https://amzn.to/3cQC6BU
+- [ ] Giants of Enterprise - https://amzn.to/3cMkNBN
+- [ ] Unstoppable - https://amzn.to/39GLTIu
+- [ ] The Common Sense Book of Baby & Child Care - https://amzn.to/2U7kLft
+- [ ] Blink - https://amzn.to/ 
+- [ ] Battle Hymn of the Tiger Mother - https://amzn.to/2W2u2rI
+- [ ] Release Your Brakes! - https://amzn.to/2TCLIIE
+- [ ] The Law of Success - https://amzn.to/3cOsXK0
+- [ ] Think & Grow Rich - https://amzn.to/334lz8T
+- [ ] Quantum Leap Thinking - https://amzn.to/39B65vo
+- [ ] Magic Words That Bring You Riches - https://amzn.to/2v4bXhL - Kindle Unlimited
+- [ ] Winning Through Intimidation - https://amzn.to/2P24xm5
+- [ ] Tough Minded Management - https://amzn.to/2uUXG6R
+- [ ] The Art of War - https://amzn.to/2SQoq0u
+- [ ] Either You're In or You're in the Way - https://amzn.to/2SNNjtA
+- [ ] Your First Hundred Million - https://amzn.to/3olawUU

@@ -1,0 +1,18 @@
+{
+  "commitMessage": "Obsidian vault backup (personal notes) {{date}} with {{hostname}} with {{numfiles}} files changed.",
+  "commitDateFormat": "on DD-MM-YYYY at HH:mm:ss",
+  "autoSaveInterval": 0,
+  "autoPullInterval": 0,
+  "autoPullOnBoot": false,
+  "disablePush": false,
+  "pullBeforePush": true,
+  "disablePopups": false,
+  "listChangedFilesInMessageBody": false,
+  "showStatusBar": true,
+  "updateSubmodules": false,
+  "gitPath": "",
+  "customMessageOnAutoBackup": false,
+  "autoBackupAfterFileChange": false,
+  "mergeOnPull": true,
+  "treeStructure": false
+}
